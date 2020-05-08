@@ -1,3 +1,3 @@
-# About me
+# About Me
 
-This is a repository that will contain some information about me.
+This is my about me project. It's not *everything* about me, but it's a start.
