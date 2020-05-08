@@ -1,4 +1,0 @@
-Pizza
-Donuts
-Cupcakes
-Tacos
