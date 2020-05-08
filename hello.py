@@ -3,5 +3,5 @@ print('2 + 2 is %d' % (2 + 2))
 
 
 def my_function():
-    """This will do something cool."""
+    """Do a really cool thing (someday)."""
     return None
